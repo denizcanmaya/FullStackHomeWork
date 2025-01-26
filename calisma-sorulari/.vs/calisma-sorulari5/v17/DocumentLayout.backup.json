@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FC83F7-5A92-4F62-A06C-8C8B55AC1066}|calisma-sorulari5\\calisma-sorulari5.csproj|c:\\users\\lance\\desktop\\fullstack\\calisma-sorulari5\\calisma-sorulari5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FC83F7-5A92-4F62-A06C-8C8B55AC1066}|calisma-sorulari5\\calisma-sorulari5.csproj|solutionrelative:calisma-sorulari5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari5\\calisma-sorulari5\\Program.cs",
+              "RelativeDocumentMoniker": "calisma-sorulari5\\Program.cs",
+              "ToolTip": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari5\\calisma-sorulari5\\Program.cs",
+              "RelativeToolTip": "calisma-sorulari5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T16:24:26.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

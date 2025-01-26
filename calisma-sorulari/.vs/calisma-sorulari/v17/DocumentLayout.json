@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA89BE-4E17-4E43-8012-F978657924CE}|calisma-sorulari15\\calisma-sorulari15.csproj|c:\\users\\lance\\desktop\\fullstack\\calisma-sorulari\\calisma-sorulari15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA89BE-4E17-4E43-8012-F978657924CE}|calisma-sorulari15\\calisma-sorulari15.csproj|solutionrelative:calisma-sorulari15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB02682-8812-4924-B350-B260D497F209}|calisma-sorulari14\\calisma-sorulari14.csproj|c:\\users\\lance\\desktop\\fullstack\\calisma-sorulari\\calisma-sorulari14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB02682-8812-4924-B350-B260D497F209}|calisma-sorulari14\\calisma-sorulari14.csproj|solutionrelative:calisma-sorulari14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B19944C-5B95-4158-AF23-302D11092E50}|calisma-sorulari13\\calisma-sorulari13.csproj|c:\\users\\lance\\desktop\\fullstack\\calisma-sorulari\\calisma-sorulari13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B19944C-5B95-4158-AF23-302D11092E50}|calisma-sorulari13\\calisma-sorulari13.csproj|solutionrelative:calisma-sorulari13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B60F49-318D-46A8-8B7A-C2FFA6168CE4}|calisma-sorulari12\\calisma-sorulari12.csproj|c:\\users\\lance\\desktop\\fullstack\\calisma-sorulari\\calisma-sorulari12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B60F49-318D-46A8-8B7A-C2FFA6168CE4}|calisma-sorulari12\\calisma-sorulari12.csproj|solutionrelative:calisma-sorulari12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari15\\Program.cs",
+              "RelativeDocumentMoniker": "calisma-sorulari15\\Program.cs",
+              "ToolTip": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari15\\Program.cs",
+              "RelativeToolTip": "calisma-sorulari15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T12:25:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari14\\Program.cs",
+              "RelativeDocumentMoniker": "calisma-sorulari14\\Program.cs",
+              "ToolTip": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari14\\Program.cs",
+              "RelativeToolTip": "calisma-sorulari14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:44:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari13\\Program.cs",
+              "RelativeDocumentMoniker": "calisma-sorulari13\\Program.cs",
+              "ToolTip": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari13\\Program.cs",
+              "RelativeToolTip": "calisma-sorulari13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:23:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari12\\Program.cs",
+              "RelativeDocumentMoniker": "calisma-sorulari12\\Program.cs",
+              "ToolTip": "C:\\Users\\lance\\Desktop\\fullstack\\calisma-sorulari\\calisma-sorulari12\\Program.cs",
+              "RelativeToolTip": "calisma-sorulari12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:43:44.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

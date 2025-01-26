@@ -1,0 +1,14 @@
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\bin\Debug\net8.0\calisma-sorulari9.exe
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\bin\Debug\net8.0\calisma-sorulari9.deps.json
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\bin\Debug\net8.0\calisma-sorulari9.runtimeconfig.json
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\bin\Debug\net8.0\calisma-sorulari9.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\bin\Debug\net8.0\calisma-sorulari9.pdb
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.AssemblyInfo.cs
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\refint\calisma-sorulari9.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.pdb
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\calisma-sorulari9.genruntimeconfig.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari9\obj\Debug\net8.0\ref\calisma-sorulari9.dll

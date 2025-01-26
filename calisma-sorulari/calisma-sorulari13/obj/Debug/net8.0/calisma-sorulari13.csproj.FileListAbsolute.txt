@@ -1,0 +1,14 @@
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.AssemblyInfoInputs.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.AssemblyInfo.cs
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.csproj.CoreCompileInputs.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\bin\Debug\net8.0\calisma-sorulari13.exe
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\bin\Debug\net8.0\calisma-sorulari13.deps.json
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\bin\Debug\net8.0\calisma-sorulari13.runtimeconfig.json
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\bin\Debug\net8.0\calisma-sorulari13.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\bin\Debug\net8.0\calisma-sorulari13.pdb
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\refint\calisma-sorulari13.dll
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.pdb
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\calisma-sorulari13.genruntimeconfig.cache
+C:\Users\lance\Desktop\fullstack\calisma-sorulari\calisma-sorulari13\obj\Debug\net8.0\ref\calisma-sorulari13.dll
